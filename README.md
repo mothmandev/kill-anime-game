@@ -1,7 +1,7 @@
 
 # kill-anime-game
 
-## Setup
+## Setup for Playtesting
 
 ### Download NodeJS
 
